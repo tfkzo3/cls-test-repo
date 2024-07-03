@@ -1,0 +1,7 @@
+
+host = 'internal.firewall.xmho9.com'
+port = 13306
+database = 'devices'
+user = 'root'
+password = 'asO9o40JdO2XKi8'
+
